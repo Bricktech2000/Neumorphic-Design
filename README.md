@@ -1,4 +1,3 @@
-Neumorphic Design
-=================
+# Neumorphic Design
 
-Just trying out a new design style
+_Just trying out a new design style_
